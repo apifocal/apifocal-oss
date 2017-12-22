@@ -45,6 +45,16 @@
         <tag>apifocal-oss-1</tag>
         <url>https://github.com/apifocal/apifocal-oss</url>
     </scm>
+    <developers>
+        <developer>
+            <id>hadrian</id>
+            <name>Hadrian Zbarcea</name>
+            <email>hadrian@apache.org</email>
+            <url>https://apifocal.com/blog</url>
+            <organization>apifocal</organization>
+            <organizationUrl>https://apifocal.com</organizationUrl>
+        </developer>
+    </developers>
 
     <distributionManagement>
         <repository>
